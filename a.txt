@@ -1,3 +1,6 @@
 another text file is added here 
+this is document a1, this says you will have to press space to write  in this  area   
+this is change made by dev 1
 changes made by dev2
+
 
